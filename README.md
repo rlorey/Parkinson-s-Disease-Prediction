@@ -25,6 +25,8 @@ Disease was diagnosed. There are 31 people in the study with, 23 of whom were di
 
 This visual shows that there is a linear relationship between the two voice measures, PPE and spread1. Also shown on the diagram is whether each point was a positive Parkinson's diagnosis or not. The higher the PPE and spread1, the more likely a positive diagnosis and alternately, the lower PPE and lower spread, the less likely a diagnosis of Parkinson's.
 
+<img width="641" alt="Screen Shot 2022-01-17 at 11 31 06 AM" src="https://user-images.githubusercontent.com/62402303/149814981-afbfd469-60fb-4b56-8b0a-875d5b35ac8a.png">
+
 
 # Acknowledgments
 * 'Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection', Little MA, McSharry PE, Roberts SJ, Costello DAE, Moroz IM. BioMedical Engineering OnLine 2007, 6:23 (26 June 2007)
