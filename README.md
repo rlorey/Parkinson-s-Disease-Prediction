@@ -27,6 +27,7 @@ This visual shows that there is a linear relationship between the two voice meas
 
 <img width="641" alt="Screen Shot 2022-01-17 at 11 31 06 AM" src="https://user-images.githubusercontent.com/62402303/149814981-afbfd469-60fb-4b56-8b0a-875d5b35ac8a.png">
 
+<img width="536" alt="Screen Shot 2022-01-17 at 11 36 01 AM" src="https://user-images.githubusercontent.com/62402303/149815559-a12d4b93-e17e-415e-8c90-e13a627dccaf.png">
 
 # Acknowledgments
 * 'Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection', Little MA, McSharry PE, Roberts SJ, Costello DAE, Moroz IM. BioMedical Engineering OnLine 2007, 6:23 (26 June 2007)
