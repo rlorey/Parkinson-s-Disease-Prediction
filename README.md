@@ -15,11 +15,13 @@ progress to a point that are clearly indicative of PD.  This project looks at th
 
 ## Data
 
-This data was collected my Max Little at the University of Oxford and is housed in the **UCI** Machine Learning Repository.
+This data was collected by Max Little at the University of Oxford and is housed in the **UCI** Machine Learning Repository.
 https://archive.ics.uci.edu/ml/datasets/parkinsons. This data set contains MDVP measurements  on various voice measurements and whether Parkinsons 
 Disease was diagnosed. There are 31 people in the study with, 23 of whom were diagnosed with PD, and there are 195 total voice recordings.  
 
 <img width="939" alt="Screen Shot 2022-01-17 at 11 07 33 AM" src="https://user-images.githubusercontent.com/62402303/149812198-85c804af-0cab-4aa4-88c2-5ed94ad2f9de.png">
+
+Additional data was used to test the models.  This data was collected by Athanasios Tsanas and Max Little at the University of Oxford and is housed in the **UCI** Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/parkinsons+telemonitoring The data contains biomedical voice recordings for 42 people diagnosed with early stage PD.  There are 5,875 samples.
 
 # Visuals
 <img width="559" alt="Screen Shot 2022-01-17 at 11 11 55 AM" src="https://user-images.githubusercontent.com/62402303/149812602-e86dbca3-7b92-410f-b733-ee86e2096132.png">
@@ -55,6 +57,9 @@ Confusion matrix for XGBM Optimized model (false negatives = seven)<br/><br/>
 
 # Acknowledgments
 * 'Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection', Little MA, McSharry PE, Roberts SJ, Costello DAE, Moroz IM. BioMedical Engineering OnLine 2007, 6:23 (26 June 2007) https://archive.ics.uci.edu/ml/datasets/parkinson
+* Athanasios Tsanas, Max A. Little, Patrick E. McSharry, Lorraine O. Ramig (2009), 
+'Accurate telemonitoring of Parkinson’s disease progression by non-invasive speech tests', 
+IEEE Transactions on Biomedical Engineering (to appear). https://archive.ics.uci.edu/ml/datasets/parkinsons+telemonitoring
 * https://raw.githubusercontent.com/pqrst/ParkinsonsDiseaseDataAnalysis/master/parkinsons_updrs.csv
 * http://aiish.ac.in/images/pdf/jaiish09.pdf
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5434464/
