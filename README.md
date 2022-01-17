@@ -18,5 +18,9 @@ This data was collected my Max Little at the University of Oxford and is housed 
 https://archive.ics.uci.edu/ml/datasets/parkinsons. This data set contains MDVP measurements  on various voice measurements and whether Parkinsons 
 Disease was diagnosed. There are 31 people in the study with, 23 of whom were diagnosed with PD, and there are 195 total voice recordings.  
 
+<img width="939" alt="Screen Shot 2022-01-17 at 11 07 33 AM" src="https://user-images.githubusercontent.com/62402303/149812198-85c804af-0cab-4aa4-88c2-5ed94ad2f9de.png">
+
+# Visuals
+
 
 
